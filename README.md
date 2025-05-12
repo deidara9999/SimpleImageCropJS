@@ -4,7 +4,7 @@ A simple Image Crop in JavaScript, HTML and [Bootstrap](https://getbootstrap.com
 # TODO
 - A function to store the file in AWS
 - A function to store the file in Azure
-
+- Use a modal to crop the image 
  
  ## Contributing
 
